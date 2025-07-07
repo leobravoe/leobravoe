@@ -56,4 +56,4 @@ Sou **professor** e **desenvolvedor**, apaixonado por tecnologia, ensino e soluÃ
 
 ## ğŸ Snake Eating My Contributions
 
-![snake gif](https://github.com/leobravoe/github-contribution-grid-snake/blob/output/dist/github-snake.svg)
+![snake gif](https://github.com/leobravoe/github-contribution-grid-snake/blob/main/dist/github-snake.svg)
