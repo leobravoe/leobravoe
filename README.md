@@ -53,3 +53,7 @@ Sou **professor** e **desenvolvedor**, apaixonado por tecnologia, ensino e solu�
 ---
 
 ⭐️ Obrigado por visitar meu perfil! Sinta-se à vontade para explorar meus repositórios, colaborar ou entrar em contato!
+
+## 🐍 Snake Eating My Contributions
+
+![snake gif](https://github.com/leobravoe/github-contribution-grid-snake/blob/output/dist/github-snake.svg)
