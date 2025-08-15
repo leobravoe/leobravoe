@@ -53,8 +53,7 @@ Sou **professor** e **desenvolvedor**, apaixonado por tecnologia, ensino e solu�
 ## 🌎 Contato
 
 - 🌐 [Site pessoal](https://leobravoe.github.io/)
-- 📫 **Email:** leobravoe@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/leobravoe)
+- 📫 **Email:** leonardo.bravo@ifsc.edu.com
 
 ---
 
