@@ -11,9 +11,8 @@ Sou **professor** e **desenvolvedor**, apaixonado por tecnologia, ensino e solu�
 ## 🚀 Sobre mim
 
 - 🎓 **Professor EBTT** no **IFSC**
-- 👨‍💻 **Áreas de interesse:** Desenvolvimento Web, APIs, Educação em Computação
+- 👨‍💻 **Áreas de interesse:** Desenvolvimento Web, APIs, Desenvolvimento de Jogos e Educação em Computação
 - 📚 Ensino de **JavaScript**, **React**, **Node.js**, **Python**, **Banco de Dados** e mais
-- ✍️ Atualmente escrevendo um livro introdutório sobre **JavaScript**
 - 🔬 Pesquisa em **Benchmarking de APIs RESTful** (Rust, Node.js, Java, Go)
 
 ---
