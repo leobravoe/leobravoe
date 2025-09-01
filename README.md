@@ -32,7 +32,7 @@ Sou **professor** e **desenvolvedor**, apaixonado por tecnologia, ensino e solu�
 
 ## 💡 Projetos em Destaque
 
-- 📚 **Livro de Introdução à Programação** *(em desenvolvimento)*
+- 📚 **Livro de Introdução à Programação**
 - 🔬 **Benchmarking de APIs RESTful em Diferentes Linguagens**
 - 🌐 **Exercícios e Aulas para o Ensino Técnico e Superior**
 
