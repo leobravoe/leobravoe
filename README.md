@@ -42,8 +42,11 @@ Sou **professor** e **desenvolvedor**, apaixonado por tecnologia, ensino e solu√
 
 <div align="center">
   
-![Leonardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=leobravoe&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leobravoe&layout=compact)
+![Stats (light)](https://github-readme-stats.vercel.app/api?username=leobravoe&show_icons=true&theme=default&bg_color=00000000&hide_border=true#gh-light-mode-only)
+![Stats (dark)](https://github-readme-stats.vercel.app/api?username=leobravoe&show_icons=true&theme=github_dark&bg_color=00000000&hide_border=true#gh-dark-mode-only)
+
+![Top Langs (light)](https://github-readme-stats.vercel.app/api/top-langs/?username=leobravoe&layout=compact&theme=default&bg_color=00000000&hide_border=true#gh-light-mode-only)
+![Top Langs (dark)](https://github-readme-stats.vercel.app/api/top-langs/?username=leobravoe&layout=compact&theme=github_dark&bg_color=00000000&hide_border=true#gh-dark-mode-only)
 
 </div>
 
