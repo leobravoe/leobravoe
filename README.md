@@ -63,4 +63,5 @@ Sinta-se à vontade para explorar meus repositórios, colaborar ou entrar em con
 
 ## 🐍 Snake com minhas contribuições
 
-![snake gif](https://github.com/leobravoe/github-contribution-grid-snake/blob/main/dist/github-snake.svg)
+![Snake light](https://raw.githubusercontent.com/leobravoe/github-contribution-grid-snake/output/dist/github-snake.svg#gh-light-mode-only)
+![Snake dark](https://raw.githubusercontent.com/leobravoe/github-contribution-grid-snake/output/dist/github-snake-dark.svg#gh-dark-mode-only)
